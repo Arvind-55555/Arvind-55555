@@ -1,10 +1,10 @@
-- 👋 Hi, I’m a Data Science enthusiast with specializations in Machine Learning, Data Engineering, and Python coding.
-- 
+  - 👋 Hi, I’m a Data Science enthusiast with specializations in Machine Learning, Data Engineering, and Python coding.
+  
   - 👀 I’m interested in exploring innovative applications of AI and ML in solving real-world problems.
-  - 
-- 🌱 I’m currently learning advanced techniques in deep learning and big data processing.
-- 
-- 💞️ I’m looking to collaborate on projects related to predictive modeling, data pipelines, and AI-driven applications.
+    
+  - 🌱 I’m currently learning advanced techniques in deep learning and big data processing.
+  
+  - 💞️ I’m looking to collaborate on projects related to predictive modeling, data pipelines, and AI-driven applications.
 
 
 
