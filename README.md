@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arvind — AI & Data Science Engineer  
 
-🚀 Passionate about building **end-to-end AI/ML systems** that combine data engineering, model intelligence, and real-time deployment.  
+🚀 Building **full-stack AI/ML systems** that integrate data pipelines, model development, and production deployment.
 
 ---
 
