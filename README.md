@@ -1,4 +1,4 @@
-# Hi, I'm Arvind — AI & Data Science Engineer  
+# Hi, I'm Arvind — AI & ML Engineer  
 
 Building **full-stack AI/ML systems** that integrate data pipelines, model development, and production deployment.
 
