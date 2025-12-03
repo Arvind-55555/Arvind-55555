@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Arvind — AI & Data Science Engineer  
+# Hi, I'm Arvind — AI & Data Science Engineer  
 
-🚀 Building **full-stack AI/ML systems** that integrate data pipelines, model development, and production deployment.
+Building **full-stack AI/ML systems** that integrate data pipelines, model development, and production deployment.
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 I’m an **AI & Data Science Engineer** specializing in **Machine Learning, Generative AI, and Data Engineering**.  
 My work bridges the gap between **research and production**, focusing on scalable **LLM pipelines**, **RAG systems**, and **GeoAI models** for environmental and spatial intelligence.  
@@ -13,24 +13,24 @@ I have hands-on experience in creating **data-driven architectures** — from in
 
 ---
 
-## 🔬 Interests & Focus Areas  
+## Interests & Focus Areas  
 
-- 🛰️ **GeoAI & Environmental Modeling** – analyzing satellite and spatial datasets for environmental change detection.  
-- 🤖 **LLM & RAG Systems** – building retrieval-augmented generation pipelines with hybrid search and custom LLM generation layers.  
-- 🧩 **End-to-End ML Pipelines** – automating data processing, feature engineering, and model lifecycle management.  
-- 💡 **AI for Impact** – leveraging data and AI to address sustainability, urban planning, and intelligent transport challenges.  
-
----
-
-## ⚙️ Currently Working On  
-
-- 🌍 **GeoSpatial Intelligence Model** for environmental pattern and pollution analysis.  
-- 💬 **RAG-based Q&A System** powered by **Ollama and LangChain**, integrating hybrid retrieval and generation.  
-- 🐳 **Dockerized ML Infrastructure** for seamless deployment and real-time inference.  
+- **GeoAI & Environmental Modeling** – analyzing satellite and spatial datasets for environmental change detection.  
+- **LLM & RAG Systems** – building retrieval-augmented generation pipelines with hybrid search and custom LLM generation layers.  
+- **End-to-End ML Pipelines** – automating data processing, feature engineering, and model lifecycle management.  
+- **AI for Impact** – leveraging data and AI to address sustainability, urban planning, and intelligent transport challenges.  
 
 ---
 
-## 🤝 Collaboration Goals  
+## Currently Working On  
+
+- **GeoSpatial Intelligence Model** for environmental pattern and pollution analysis.  
+- **RAG-based Q&A System** powered by **Ollama and LangChain**, integrating hybrid retrieval and generation.  
+- **Dockerized ML Infrastructure** for seamless deployment and real-time inference.  
+
+---
+
+## Collaboration Goals  
 
 Open to collaborating on:  
 - AI/ML research-to-production pipelines  
@@ -40,7 +40,7 @@ Open to collaborating on:
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 **Languages:** Python, SQL, Bash  
 **AI/ML:** PyTorch, TensorFlow, scikit-learn, HuggingFace, LangChain, Ollama  
@@ -50,12 +50,10 @@ Open to collaborating on:
 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 
-- 🌐 **Portfolio:** [https://arvind-55555.github.io/arvind.github.io/](https://arvind-55555.github.io/arvind.github.io/)  
-- 💼 **LinkedIn:** [www.linkedin.com/in/arvind55555](https://www.linkedin.com/in/arvind55555)  
-- 🧑‍💻 Open to collaboration and research in **AI-driven systems** and **Data Intelligence**.  
+- **Portfolio:** [https://arvind-55555.github.io/arvind.github.io/](https://arvind-55555.github.io/arvind.github.io/)  
+- **LinkedIn:** [www.linkedin.com/in/arvind55555](https://www.linkedin.com/in/arvind55555)  
+- Open to collaboration and research in **AI-driven systems** and **Data Intelligence**.  
 
 ---
-
-⭐ _"Turning data into intelligence, and intelligence into impact."_  
