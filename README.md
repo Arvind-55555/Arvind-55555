@@ -43,8 +43,7 @@ Open to collaborating on:
 ## Tech Stack  
 
 **Languages:** Python, SQL, Bash  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, HuggingFace, LangChain, Ollama  
-**Data Engineering:** Apache Spark, Kafka, Airflow, PostgreSQL, Snowflake  
+**AI/ML:** PyTorch, TensorFlow, scikit-learn, HuggingFace, LangChain, Ollama   
 **Deployment:** Docker, FastAPI, Streamlit, Gradio, AWS, GCP  
 **Visualization:** Plotly, Power BI, QGIS, Matplotlib  
 
