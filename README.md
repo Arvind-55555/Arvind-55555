@@ -4,7 +4,7 @@
 
 ## About Me
 
-Machine Learning Engineer and Full-Stack Developer with a focus on building AI-powered solutions for environmental sustainability and social impact. Currently working on ecosystem restoration and climate technology projects.
+Machine Learning Engineer with a focus on building AI-powered solutions for environmental sustainability and social impact. Currently working on ecosystem restoration and climate technology projects.
 
 **Core Competencies:**
 - Environmental AI and climate technology solutions
