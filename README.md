@@ -9,7 +9,6 @@ Machine Learning Engineer with a focus on building AI-powered solutions for envi
 **Core Competencies:**
 - Environmental AI and climate technology solutions
 - Machine learning system design and deployment
-- Full-stack development with modern frameworks
 - Time-series forecasting and multi-objective optimization
 - Geospatial analysis and environmental data science
 - Open-source contribution to sustainability projects
