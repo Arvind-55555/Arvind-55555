@@ -1,7 +1,6 @@
 # Hi, I'm Arvind — AI & ML Engineer 
 
 [![GitHub followers](https://img.shields.io/github/followers/Arvind-55555?label=Follow&style=social)](https://github.com/Arvind-55555)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arvind55555)
 
 ## About Me
 
@@ -102,7 +101,6 @@ A comprehensive end-to-end machine learning platform that combines real-time env
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arvind55555)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvind.saane.111@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arvind-55555.github.io/arvind.github.io/)
 
