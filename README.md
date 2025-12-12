@@ -1,6 +1,9 @@
 # Hi, I'm Arvind — AI & ML Engineer 
 
-[![GitHub followers](https://img.shields.io/github/followers/Arvind-55555?label=Follow&style=social)](https://github.com/Arvind-55555)
+![Profile Views](https://komarev.com/ghpvc/?username=Arvind-55555&color=blue&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/Arvind-55555?style=social)
+![GitHub Repos](https://img.shields.io/badge/Repositories-30+-blue)
+
 
 ## About Me
 
@@ -97,11 +100,33 @@ A comprehensive end-to-end machine learning platform that combines real-time env
 - Contributing to open-source environmental and climate tech projects
 
 ---
+## 📊 Repository Visits & Featured Projects
+
+Here are some of my active repositories. Click on any project to explore the code and documentation:
+
+| Repository | Description | Last Updated |
+|------------|-------------|--------------|
+| **[Ubuntu-AI-Agent](https://github.com/Arvind-55555/Ubuntu-AI-Agent)** | Intelligent AI-powered system management agent for Ubuntu desktop systems with automated issue detection and resolution capabilities. | Dec 12, 2025 |
+| **[SIEM-Real-Time-Security](https://github.com/Arvind-55555/SIEM-Real-Time-Security)** | Real-time Security Information and Event Management (SIEM) system with comprehensive log analysis, threat detection, and security monitoring. | Dec 12, 2025 |
+| **[Delhi-Ecosystem-Restoration-ML](https://github.com/Arvind-55555/Delhi-Ecosystem-Restoration-ML)** | Predictive ML models to guide ecosystem restoration efforts in Delhi by analyzing air quality, water quality, vegetation, biodiversity, and socio-economic data. | Dec 12, 2025 |
+| **[Telangana-Water-Quality-Dashboard](https://github.com/Arvind-55555/Telangana-Water-Quality-Dashboard)** | Standalone geospatial visualization dashboard for monitoring water quality across 213 stations in Telangana state. | Dec 11, 2025 |
+| **[India-Hydrological-Analysis-GEE](https://github.com/Arvind-55555/India-Hydrological-Analysis-GEE)** | Python-based hydrological analysis leveraging Google Earth Engine's MERIT Hydro dataset to analyze India's river networks, watersheds, and drainage patterns. | Dec 6, 2025 |
+| **[Hyderabad-Nature-Based-Solutions](https://github.com/Arvind-55555/Hyderabad-Nature-Based-Solutions)** | Automates planning of green and blue infrastructure for Hyderabad using Nature-based Solutions (NbS). | Dec 4, 2025 |
+| **[Carbon-Storage-Forest-Analysis](https://github.com/Arvind-55555/Carbon-Storage-Forest-Analysis)** | Geospatial platform for estimating, mapping, and analyzing carbon storage and sequestration potential in forest ecosystems. | Dec 3, 2025 |
+| **[Urban-Heat-Island-India](https://github.com/Arvind-55555/Urban-Heat-Island-India)** | Urban Heat Island monitoring and analysis system for 50 major Indian cities integrating meteorological, environmental, and urban form data. | Dec 2, 2025 |
+
+**View all my repositories:** [https://github.com/Arvind-55555?tab=repositories](https://github.com/Arvind-55555?tab=repositories)
+
+---
 
 ## Connect With Me
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arvind.saane.111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arvind-55555.github.io/arvind.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arvind55555)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/arvind55555)
+[![Company](https://img.shields.io/badge/Company-Website-green?style=for-the-badge)](https://potencial-tech.b12sites.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Arvind-55555)
+[![Portfolio](https://img.shields.io/badge/Porfolio-Profile-orange?style=for-the-badge&logo=github)](https://arvind-55555.github.io/arvind.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:?subject=Contact%20from%20GitHub)
 
 ---
 
