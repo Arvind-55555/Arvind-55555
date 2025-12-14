@@ -100,7 +100,7 @@ A comprehensive end-to-end machine learning platform that combines real-time env
 - Contributing to open-source environmental and climate tech projects
 
 ---
-## 📊 Repository Visits & Featured Projects
+## Repository Visits & Featured Projects
 
 Here are some of my active repositories. Click on any project to explore the code and documentation:
 
@@ -115,7 +115,7 @@ Here are some of my active repositories. Click on any project to explore the cod
 | **[Carbon-Storage-Forest-Analysis](https://github.com/Arvind-55555/Carbon-Storage-Forest-Analysis)** | Geospatial platform for estimating, mapping, and analyzing carbon storage and sequestration potential in forest ecosystems. | Dec 3, 2025 |
 | **[Urban-Heat-Island-India](https://github.com/Arvind-55555/Urban-Heat-Island-India)** | Urban Heat Island monitoring and analysis system for 50 major Indian cities integrating meteorological, environmental, and urban form data. | Dec 2, 2025 |
 
-**View all my repositories:** [https://github.com/Arvind-55555?tab=repositories](https://github.com/Arvind-55555?tab=repositories)
+**View all my repositories:** [Repositories](https://github.com/Arvind-55555?tab=repositories)
 
 ---
 
