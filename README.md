@@ -121,7 +121,6 @@ Here are some of my active repositories. Click on any project to explore the cod
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arvind55555)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/arvind55555)
 [![Company](https://img.shields.io/badge/Company-Website-green?style=for-the-badge)](https://potencial-tech.b12sites.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Arvind-55555)
